@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/central-interprete1/static/css/main.dd8614e7.css",
+    "main.js": "/central-interprete1/static/js/main.933b4427.js",
+    "index.html": "/central-interprete1/index.html",
+    "main.dd8614e7.css.map": "/central-interprete1/static/css/main.dd8614e7.css.map",
+    "main.933b4427.js.map": "/central-interprete1/static/js/main.933b4427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8614e7.css",
+    "static/js/main.933b4427.js"
+  ]
+}
